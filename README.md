@@ -1,2 +1,2 @@
 # snake-game
-Snake Game
+My first mini game in Python with GUI
